@@ -1,2 +1,5 @@
 /data
 /code/config.py
+/venv
+/code/lambda_upload/pytorch_fn
+/code/lambda_upload/pytorch_fn.zip
